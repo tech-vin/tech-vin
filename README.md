@@ -2,7 +2,7 @@
 
 ## Hi! My name's Vineet 👋
 
-🎓 Software Engineering at Tsinfotechnologies <br/>
+🎓 Software Engineer at Tsinfotechnologies <br/>
 🙌  Holds the power of Family & Friends <br/>
 :green_heart: checkout pythonguides.com <br/>
 :racehorse: bows to the [Healthy Lifestyle](https://amznlovr.in/) <br />
