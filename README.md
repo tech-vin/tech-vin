@@ -4,9 +4,10 @@
 
 🎓 Software Engineer at Tsinfotechnologies <br/>
 🙌  Holds the power of Family & Friends <br/>
-:green_heart: checkout pythonguides.com <br/>
+:green_heart: checkout [PythonGuides](https://pythonguides.com/), [SqlServerGuides](https://sqlserverguides.com/category/oracle/) <br/>
 :racehorse: bows to the [Healthy Lifestyle](https://amznlovr.in/) <br />
-👀 Still got lots to see and do, I'm just getting started <br/>
+🌱 Help me grow on [YouTube](https://www.youtube.com/c/TSInfoTechnologies) <br />
+👀 Still got lot to see and do, I'm just getting started <br/>
 
 [![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-vin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tech-vin)
 <
