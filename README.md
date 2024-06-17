@@ -2,9 +2,9 @@
 
 ## Hi! My name's Vineet 👋
 
-🎓 Software Engineer at Tsinfotechnologies <br/>
+🎓 Software Engineer at Dell Technologies <br/>
 🙌  Holds the power of Family & Friends <br/>
-:green_heart: checkout [PythonGuides](https://pythonguides.com/), [SqlServerGuides](https://sqlserverguides.com/category/oracle/) <br/>
+:green_heart: checkout [PythonGuides](https://pythonguides.com/) <br/>
 :racehorse: bows to the [Healthy Lifestyle](https://amznlovr.in/) <br />
 🌱 Help me grow on [YouTube](https://www.youtube.com/c/TSInfoTechnologies) <br />
 👀 Still got lot to see and do, I'm just getting started <br/>
