@@ -4,30 +4,37 @@
 
 # Vineet Singh
 
-🔭 **Software Engineer** | Python & Cloud Enthusiast  
-🌱 Currently exploring **Advanced Python** tooling, **Machine Learning**, and **API-driven automations**  
-💬 Ask me about: Python, REST APIs, automation, DevOps foundations  
-👯 I’m looking to collaborate on open‑source Python projects and data‑driven tools  
+🔧 **Platform Software Engineer** | Linux Systems | Python Automation  
+🌱 Currently working on **custom OS development**, **device management**, and **system-level service engineering**  
+💬 Ask me about: Linux internals, udev rules, audio/Bluetooth stack, Python system scripting  
+👯 I’m looking to collaborate on open‑source projects related to **Linux tooling**, **system daemons**, and **platform automation** 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tech-vin) • [Email](mailto:code.vineetsingh@gmail.com)
 
 ---
 
 ## 🔧 Technologies & Tools
 
-| Languages | Frameworks  & Libraries | Cloud & DevOps | Databases |
-|:---------:|:------------------------:|:--------------:|:---------:|
-| Python    | Flask, FastAPI   | AWS, Docker    | PostgreSQL  |
-| Shell Scripting| Node.js, React           | Kubernetes    | SQLite     |
-|   C Programming     | Pandas, NumPy, scikit‑learn| Terraform     | MongoDB    |
+| Languages | System Platform Tools | DevOps & CI/CD | Databases |
+|:---------:|:---------------------:|:--------------:|:---------:|
+| Python, C | Linux, udev, systemd  |Docker, Jenkins | PostgreSQL|
 
 ---
 
 ## 🌟 Highlights
 
-- ✅ Contributor to [PythonGuides](https://pythonguides.com/) — tutorials & best practices  
-- ⚙️ Built a CLI‑based Google Drive download manager with OAuth, resumable transfers, and multi‑threading  
-- 📺 Contributor at [TS Info Technologies](https://www.youtube.com/c/TSInfoTechnologies) — Python tutorials & walkthroughs  
-- 📈 Passionate about clean code, test‑driven development, and performance optimization  
+- 🧩 Migrated Dell ThinOS from FreeBSD to Ubuntu, resolving system-level compatibility and package issues
+- 🔌 Engineered device whitelisting/blacklisting using udev rules and VID/PID filtering
+- 🎧 Developed audio mode switching logic (A2DP ↔ HSP) and stabilized Bluetooth connectivity
+- 📊 Built system health dashboards using Flask and PostgreSQL for internal monitoring
+- 🛠 Refactored legacy kernel-dependent code to align with modern Ubuntu architecture
+
+---
+
+## 📂 Featured Repositories
+
+- 🔧 **udev-device-manager** – Python service for dynamic USB device control using udev rules  
+- 🎧 **audio-switcher** – Auto-switching between Bluetooth audio profiles with system integration  
+- 📊 **sys-health-dashboard** – Lightweight Flask dashboard for monitoring system services and test reports  
 
 ---
 
